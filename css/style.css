@@ -363,7 +363,6 @@ li {
 
 @media screen and (max-width: 1024px) {
   .nav__list {
-    /* display: none; */
     transform: scale(0);
     position: fixed;
     border-radius: 50%;
