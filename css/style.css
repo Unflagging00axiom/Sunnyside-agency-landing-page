@@ -144,7 +144,7 @@ li {
   font-family: var(--secondary-font);
   padding: var(--section-padding);
   letter-spacing: 1rem;
-  padding-bottom: 15rem;
+  padding-bottom: 19rem;
 }
 
 /* About Section  */
@@ -361,7 +361,7 @@ li {
 .footer__item:hover {
   color: var(--white-color) !important;
 }
-.footer_icon{
+.footer__icon{
   display: flex;
   justify-content: center;
   gap: 3rem;
@@ -446,7 +446,7 @@ li {
     justify-content: center;
     text-align:center;
   }
-  .footer_icon{
+  .footer__icon{
     display: flex;
     flex-direction: row;
     padding-top: 1rem;
