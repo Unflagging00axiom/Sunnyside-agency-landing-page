@@ -12,7 +12,7 @@ Ce readme vous guidera à travers les étapes nécessaires pour cloner à partir
   Tapez la commande suivante pour cloner le projet :
 
 ```bash
-git clone https://github.com/kadea-academy-learners/Sunnyside-agency-landing-page.git sunnyside-landing-page
+git clone https://github.com/Unflagging00axiom/Sunnyside-agency-landing-page.git sunnyside-axiom
 ```
 
 - Accédez au dossier du projet en tapant la commande suivante :
